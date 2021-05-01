@@ -16,3 +16,32 @@ li {
 .cart {
   width: 50px;
 }
+
+.contenedor {
+  width: 150px;
+  padding: 20px;
+  cursor: "pointer";
+  background: skyblue;
+  display: block;
+}
+
+.soldOut {
+  display: none;
+}
+
+.btn {
+  border: 2px solid white;
+  padding: 20px;
+  cursor: pointer;
+  background: tomato;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.Basket {
+  margin-left: 80%;
+}
+
+.imgCart {
+  width: 30%;
+}
